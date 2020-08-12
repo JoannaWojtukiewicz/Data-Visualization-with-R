@@ -7,11 +7,11 @@
 * [Source](#source)
 
 ## General info
-This project is recreating this plot from The Economist:
-![A correlation between corruption and development](C:/Users/oskak/Desktop/R/The_Economist_plot.png)
+This project is recreating this plot from [The Economist](https://www.economist.com/graphic-detail/2011/12/02/corrosive-corruption):
+![A correlation between corruption and development](./The_Economist_plot.png)
 
 My plot created during this project:
-![my plot](/./my_plot.png)
+![my plot](./my_plot.png)
 	
 ## Technologies
 Project is created with:
