@@ -8,10 +8,10 @@
 
 ## General info
 This project is recreating this plot from [The Economist](https://www.economist.com/graphic-detail/2011/12/02/corrosive-corruption):
-![A correlation between corruption and development](./The_Economist_plot.png)
+![A correlation between corruption and development](/The_Economist_plot.PNG)
 
 My plot created during this project:
-![my plot](./my_plot.png)
+![my plot](/my_plot.PNG)
 	
 ## Technologies
 Project is created with:
